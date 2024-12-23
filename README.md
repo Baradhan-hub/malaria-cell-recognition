@@ -177,9 +177,9 @@ plt.show()
 ![image](https://github.com/Rithigasri/malaria-cell-recognition/assets/93427256/5d2c1bbe-5516-40db-8956-f71ae6c164de)
 
 ### New Sample Data Prediction:
+![Screenshot 2024-12-23 160914](https://github.com/user-attachments/assets/a2787071-e8dc-4ae2-9209-90c0c8fd8987)
+
 REG NO : 212224040045
 NAME : Baradhan.L
-![image](![Screenshot 2024-12-23 160914](https://github.com/user-attachments/assets/a2787071-e8dc-4ae2-9209-90c0c8fd8987)
-
 ## RESULT:
 The model's performance is evaluated through training and testing, and it shows potential for assisting healthcare professionals in diagnosing malaria more efficiently and accurately.
